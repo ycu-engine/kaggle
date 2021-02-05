@@ -10,6 +10,7 @@ numpy = "*"
 pandas = "*"
 matplotlib = "*"
 jupyterlab = "*"
+pywin32 = "*"
 
 [dev-packages]
 
