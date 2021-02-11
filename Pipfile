@@ -11,6 +11,9 @@ pandas = "*"
 matplotlib = "*"
 jupyterlab = "*"
 pywin32 = {version = "*", sys_platform = "== 'win32'"}
+seaborn = "*"
+sklearn = "*"
+torch = "*"
 
 [dev-packages]
 
