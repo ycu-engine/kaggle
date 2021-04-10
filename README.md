@@ -1,5 +1,11 @@
 # kaggle の分析ソースコード共有
 
+## Colab テンプレート
+
+1. 以下のリンクからファイルを開く
+    - https://colab.research.google.com/github/ycu-engine/kaggle/blob/main/kaggle_template.ipynb
+2. 「ファイル」メニューから「ドライブにコピー保存」を選択する
+
 ## クローン
 
 `Github Desktop`でこのレポジトリの URL を指定するか、`git clone <このURL>`とする
